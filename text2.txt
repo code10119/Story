@@ -1,1 +1,1 @@
-Estoy realizando un cambio en el texto 2
+Estoy realizando un cambio en el texto 2, desde otra rama 
